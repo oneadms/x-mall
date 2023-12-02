@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-card": "/uni_modules/uni-card/components/uni-card/uni-card",
+    "u-li-load-more": "/components/uLi-load-more/uLi-load-more"
+  }
+}

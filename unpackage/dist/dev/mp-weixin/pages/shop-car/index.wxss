@@ -1,0 +1,36 @@
+
+.pro-item {
+
+  background-color: white;
+  overflow: hidden;
+}
+.content{
+  text-align: center;
+  justify-content: center;
+}
+.pro-list {
+  align-items: center;
+  float: left;
+  padding: 3px;
+}
+.pro-price {
+  font-size: 0.8em;
+  color: red;
+}
+.pro-name {
+  padding: 10px;
+  white-space: nowrap;
+}
+.pro-img {
+  width: 100px;
+  height: 100px;
+}
+.title {
+  font-size: 36rpx;
+  color: #8f8f94;
+}
+#pro-banner {
+  width: 100%;
+  height: 30%;
+}
+
